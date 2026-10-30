@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rayan Lima
 
-<!--
-**rayangustavo/rayangustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Blockchain Developer & Researcher**, with a **B.Sc. in Mathematics** and an **M.Sc. in Computer Science**, focused on blockchain, distributed systems, security, and applied cryptography.
 
-Here are some ideas to get you started:
+Currently working with **Ethereum and EVM-compatible infrastructure**, smart contracts and permissioned blockchain networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Blockchain Security & Distributed Systems
+- Zero-Knowledge Proofs & Applied Cryptography
+- Blockchain Scalability & Interoperability
+
+### Tech
+
+**Solidity · Python · TypeScript · Ethereum · Hyperledger Besu · Docker**
+
+Interested in research, open-source projects, and collaborations around **blockchain, security, and cryptography**.
