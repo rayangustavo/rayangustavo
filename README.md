@@ -1,17 +1,47 @@
-# Hi, I'm Rayan Lima
+<p align="center">
+  <strong>Blockchain Developer & Researcher</strong><br>
+  B.Sc. in Mathematics · M.Sc. in Computer Science
+</p>
 
-I'm a **Blockchain Developer & Researcher**, with a **B.Sc. in Mathematics** and an **M.Sc. in Computer Science**, focused on blockchain, distributed systems, security, and applied cryptography.
+---
 
 Currently working with **Ethereum and EVM-compatible infrastructure**, smart contracts and permissioned blockchain networks.
 
-### Interests
 
-- Blockchain Security & Distributed Systems
-- Zero-Knowledge Proofs & Applied Cryptography
-- Blockchain Scalability & Interoperability
+### Stack
 
-### Tech
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+</p>
 
-**Solidity · Python · TypeScript · Ethereum · Hyperledger Besu · Docker**
+`Ethereum` `Hyperledger Besu` `EVM` `Zero-Knowledge Proofs` `Distributed Systems`
 
-Interested in research, open-source projects, and collaborations around **blockchain, security, and cryptography**.
+### Research interests
+
+```text
+blockchain
+├── security
+├── consensus & validators
+├── scalability
+└── interoperability
+
+cryptography
+├── zero-knowledge proofs
+├── multi-party computation
+├── homomorphic encryption
+└── post-quantum cryptography
+```
+
+### Current focus
+
+**Building and researching decentralized systems — from protocols and infrastructure to the cryptography behind them.**
